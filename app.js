@@ -27,7 +27,7 @@ const registry = {
 webhook(registry);
 
 app.get('/', (req, res) => {
-    res.send('<p>Copy this URL and paste it in your bot settings.</p><a href="https://github.com/aimylogic/nodejs-webhook" target="_blank">read more</a>');
+    res.send('<p>Copy this URL and paste it in your bot settings.</p><a href="https://github.com/TovieAI/nodejs-webhook" target="_blank">read more</a>');
 });
 
 app.post('/', (req, res) => {

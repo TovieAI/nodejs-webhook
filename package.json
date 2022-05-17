@@ -1,7 +1,7 @@
 {
-  "name": "aimylogic-webhook-nodejs",
+  "name": "tovie-dialog-studio-webhook-nodejs",
   "version": "1.0.0",
-  "description": "Node.js webhook for Aimylogic",
+  "description": "Node.js webhook for Tovie DialogStudio",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"

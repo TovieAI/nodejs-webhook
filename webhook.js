@@ -3,7 +3,7 @@
  * Here you can add handlers for such actions to calculate any data for your bot.
  * Every handler is a simple function that accepts an object with variables from your bot and can modify it.
  * Once the handler has modified or added some variables, the bot receives them and continues to execute blocks in scenario.
- * Please read more here https://github.com/aimylogic/nodejs-webhook
+ * Please read more here https://github.com/TovieAI/nodejs-webhook
  */
 
 'use strict';
